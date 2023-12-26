@@ -4,10 +4,9 @@
 
 ### 👨‍💻 Обо мне:
 
+- <li><a href="https://drive.google.com/drive/folders/1-1Eyzfpdq2OjpPDhdWDlvmeQQXZAT4kG" rel="nofollow">Мое резюме</a></li>
 
-<li><a href="https://drive.google.com/drive/folders/1-1Eyzfpdq2OjpPDhdWDlvmeQQXZAT4kG" rel="nofollow">Мое резюме</a></li>
-
-- Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https:) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:)
+- Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@-blue?style=flat&logo=LinkedIn&logoColor=white)](https:) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:)
 
 ---
 
